@@ -17,6 +17,6 @@ $ git clone https://github.com/cilbot/x
 
 $ cd
 
-$ ls
+$ ls (L kecil)
 
-$ python ngentot.py
+$ python tes.py
